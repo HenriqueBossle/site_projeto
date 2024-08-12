@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(81, 161, 215);
+    background-color: rgb(117, 74, 66);
 }
 
 main{
@@ -13,4 +13,17 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+h1{
+    font-size: large;
+    color: rgb(72, 16, 16);
+}
+
+h2{
+    color: rgb(72, 16, 16);
+}
+
+img{
+    width: 150px;
 }
